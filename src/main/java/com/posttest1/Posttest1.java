@@ -7,7 +7,7 @@ package com.posttest1;
     
 import java.util.ArrayList; //impor (import statement) yang digunakan untuk mengimpor kelas ArrayList
 
-public class Posttest1 { //Ini adalah deklarasi kelas utama yang disebut "Postest1".
+public class Posttest1 { //Ini adalah deklarasi kelas utama .
      public static void main(String[] args) { 
         // ArrayList untuk Nama-nama Handphone
         ArrayList<Handphone> daftarHandphone = new ArrayList<>();

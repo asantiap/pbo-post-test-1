@@ -18,7 +18,7 @@ public class Handphone {
         this.tahunRilis = tahunRilis;
     }
 
-    public String getNama() { //Ini adalah metode-metode getter (pengambil) yang digunakan untuk mengambil nilai variabel instance "nama" 
+    public String getNama() { //Ini adalah metode-metode yang digunakan untuk mengambil nilai variabel instance "nama" 
         return nama;
     }
 
@@ -26,11 +26,11 @@ public class Handphone {
         this.nama = nama;
     }
 
-    public int getTahunRilis() { //Ini adalah metode-metode getter (pengambil) yang digunakan untuk mengambil nilai variabel instance "tahunrilis" 
+    public int getTahunRilis() { //Ini adalah metode-metode yang digunakan untuk mengambil nilai variabel instance "tahunrilis" 
         return tahunRilis;
     }
 
-    public void setTahunRilis(int tahunRilis) { //: Ini adalah metode-metode setter (penetap) yang digunakan untuk mengubah nilai variabel instance "tahunRilis"
+    public void setTahunRilis(int tahunRilis) { //: Ini adalah metode-metode yang digunakan untuk mengubah nilai variabel instance "tahunRilis"
         this.tahunRilis = tahunRilis;
     }
 }
